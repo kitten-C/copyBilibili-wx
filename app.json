@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/channel/channel"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/channel/channel",
+        "text": "频道"
+      }
+    ],
+    "badge": "true",
+    "custom": true
+  },
+  "sitemapLocation": "sitemap55.json"
+}
